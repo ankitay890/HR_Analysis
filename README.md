@@ -15,10 +15,10 @@ Your client is a large MNC and they have 9 broad verticals across the organisati
 * avg_training_score: Average score in current training evaluations
 * is_promoted: (Target) Recommended for promotion
 
-# Problem Statement: 
+## Problem Statement: 
 Predict whether a potential promotee at checkpoint in the test set will be promoted or not after the evaluation process.
 
-# Apporach
+## Apporach
 This is a type of Binary class Clasiffication problem. The data is highly unbalanced, so the SMOTE teachnique is used to upscale the data. The model was applied eventually.
 
 ##  Conclusion
